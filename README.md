@@ -1,2 +1,2 @@
 # SpringSecurityWithMySQL
-Ejemplo con Spring Security. Autentificación mediante MySQL.
+Ejemplo con Spring Security y autentificación mediante MySQL.
